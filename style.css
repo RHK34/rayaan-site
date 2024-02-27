@@ -193,7 +193,7 @@ This code controls that cool parallax image and scrolling effect. Change the ima
 
 
 /* This code stops the parallax image and scrolling effect for small screens--at the moment, iPhones just don't it.*/
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 780px) {
 	.parallax {
 		background-attachment: inherit;
     
